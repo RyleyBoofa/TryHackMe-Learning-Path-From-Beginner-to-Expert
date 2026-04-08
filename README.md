@@ -44,15 +44,15 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 - [x]  [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [x]  [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 - [x]  [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
-- [ ]  [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) 
+- [x]  [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) 
 
 ## Linux Fundamentals
 
 ---
 
-- [ ]  [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-- [ ]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) 
-- [ ]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x]  [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
+- [x]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) 
+- [x]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 - [ ]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 - [ ]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
