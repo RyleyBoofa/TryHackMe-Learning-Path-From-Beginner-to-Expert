@@ -54,7 +54,7 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 - [x]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) 
 - [x]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 - [x]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-- [ ]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [x]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Network Basics
 
@@ -69,11 +69,11 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 
 ---
 
-- [ ]  [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [ ]  [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [ ]  [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
-- [ ]  [Active Directory Basics](https://tryhackme.com/jr/winadbasics)
-- [ ]  [Metasploit : Intro](https://tryhackme.com/jr/metasploitintro)
+- [x]  [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x]  [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x]  [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x]  [Active Directory Basics](https://tryhackme.com/jr/winadbasics)
+- [x]  [Metasploit : Intro](https://tryhackme.com/jr/metasploitintro)
 - [ ]  [Metasploit : Exploitation](https://tryhackme.com/jr/metasploitexploitation)
 - [ ]  [Metasploit : Meterpreter](https://tryhackme.com/jr/meterpreter)
 - [ ]  [Blue](https://tryhackme.com/jr/blue)
